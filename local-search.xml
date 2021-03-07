@@ -8,7 +8,7 @@
     <link href="/2021/03/07/ProblemSolving-4/"/>
     <url>/2021/03/07/ProblemSolving-4/</url>
     
-    <content type="html"><![CDATA[<h1 id="Permutation-Groups"><a href="#Permutation-Groups" class="headerlink" title="Permutation Groups"></a>Permutation Groups</h1><h2 id="Definition"><a href="#Definition" class="headerlink" title="Definition:"></a>Definition:</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="Permutation-Groups"><a href="#Permutation-Groups" class="headerlink" title="Permutation Groups"></a>Permutation Groups</h1><h2 id="Definition"><a href="#Definition" class="headerlink" title="Definition:"></a>Definition:</h2><p>The symmetric group on n letters, $S_n$, is a group with n! elements, where<br>the binary operation is the composition of maps.<br>A subgroup of $S_n$ is a permutaion group</p>]]></content>
     
     
     
